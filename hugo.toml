@@ -42,15 +42,15 @@ summarylength = 25
   # Google Analitycs
   googleAnalitycsID = "Your ID"
   # We're using formspree.io for form handling, paste your formspree url below
-  fabform  = "https://fabform.io/f/USAg2Jl"
+  fabform  = "https://fabform.io/f/gOeiQnl"
 
   # Contact Form
   [params.contactForm]
     placeholder_first_name        = "First Name"
     placeholder_last_name         = "Last Name"
     placeholder_email             = "Email"
-    placeholder_project_type      = "Project Type"
-    placeholder_about_the_project = "About the Project"
+    #placeholder_project_type      = "Project Type"
+    placeholder_about_the_project = "Your Message"
     send_message                  = "Send Message"
 
     [[params.contactForm.projectType]]
