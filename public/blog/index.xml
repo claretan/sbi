@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tools and Technologies on SBI Group</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Tools and Technologies on SBI Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Dec 2019 13:45:06 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LLM Interviewer</title>
+      <link>http://localhost:1313/blog/llm-interviewer/</link>
+      <pubDate>Tue, 24 Dec 2019 13:45:06 +0600</pubDate>
+      <guid>http://localhost:1313/blog/llm-interviewer/</guid>
+      <description>The richnesss of focus groups at the scale of questionnaires.</description>
+    </item>
+    <item>
+      <title>InPsyche</title>
+      <link>http://localhost:1313/blog/inpsyche/</link>
+      <pubDate>Tue, 24 Dec 2019 13:36:06 +0600</pubDate>
+      <guid>http://localhost:1313/blog/inpsyche/</guid>
+      <description>Psychographic profiling engine</description>
+    </item>
+  </channel>
+</rss>

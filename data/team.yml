@@ -1,0 +1,79 @@
+enable  : true
+title   : Team members
+members  :
+  - image       : images/team/joe-simons.png
+    name        : JOE SIMONS
+    designation : Principal Scientist
+    focus       : Social psychology
+    linkedin    : https://www.linkedin.com/
+    email       : mailto:test@example.com
+
+  - image       : images/team/prasanta-bhattacharya.png
+    name        : Prasanta BHATTACHARYA
+    designation : Senior Scientist
+    focus       : Information systems
+    linkedin    : https://www.linkedin.com/
+    email       : mailto:test@example.com
+
+  - image       : images/team/charmaine-tan.png
+    name        : Charmaine Tan
+    designation : Senior Scientist
+    focus       : Behavioural economics
+    linkedin    : https://www.linkedin.com/
+    email       : mailto:test@example.com
+
+  - image       : images/team/nandini-anant.png
+    name        : Nandini Anant
+    designation : Scientist
+    focus       : Social psychology
+    linkedin    : https://www.linkedin.com/
+    email       : mailto:test@example.com
+
+  - image       : images/team/aimee-pink.png
+    name        : Aimee Pink
+    designation : Scientist
+    focus       : Social psychology
+    linkedin    : https://www.linkedin.com/
+    email       : mailto:test@example.com
+
+  - image       : images/team/sun-lining-rachel.png
+    name        : Sun Lining, Rachel
+    designation : Senior Scientist
+    focus       : Social psychology
+    linkedin    : https://www.linkedin.com/
+    email       : mailto:test@example.com
+
+  - image       : images/team/wong-liang-ze.png
+    name        : Wong Liang Ze
+    designation : Scientist
+    focus       : Mathematics
+    linkedin    : https://www.linkedin.com/
+    email       : mailto:test@example.com
+
+  - image       : images/team/clare-tan.png
+    name        : Clare Tan
+    designation : Senior Engineer
+    focus       : Software engineering
+    linkedin    : https://www.linkedin.com/
+    email       : mailto:test@example.com
+  
+  - image       : images/team/wan-kum-seong.png
+    name        : Wan Kum Seong
+    designation : Senior Engineer
+    focus       : Psychology
+    linkedin    : https://www.linkedin.com/
+    email       : mailto:test@example.com
+  
+  - image       : images/team/arunika-pillay.png
+    name        : Arunika Pillay
+    designation : Senior Research Officer
+    focus       : SICS
+    linkedin    : https://www.linkedin.com/
+    email       : mailto:test@example.com
+
+  - image       : images/team/amelia-juraimi.png
+    name        : Amelia Juraimi
+    designation : Research Officer
+    focus       : SIFBI/IHPC
+    linkedin    : https://www.linkedin.com/
+    email       : mailto:test@example.com
