@@ -1,14 +1,14 @@
 enable : true
-heading : "THE PROOF IS IN THE PUDDING!"
+heading : "AREAS OF INTEREST"
 counter_item: 
-  - title: "Happy Clients"
+  - title: "Food and Health"
     number: "250"
 
-  - title: "Projects Completed"
+  - title: "Social Cohesion"
     number: "100"
 
-  - title: "Cups of coffee"
+  - title: "Adult Education"
     number: "350"
 
-  - title: "Telephone Talks"
+  - title: "Urban Behaviour"
     number: "775"
